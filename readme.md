@@ -1,4 +1,4 @@
-# Towards Unsupervised Few-Shot Text Transfer: A Method with Pretrained Language and Style Extractor
+# Towards Unsupervised Few-Shot Text Transfer: A Method with Pretrained Language Model and Style Extractor
 
 _UCSD LIGN 167 WI22 Final Project_
 
